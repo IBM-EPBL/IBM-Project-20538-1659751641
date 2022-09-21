@@ -13,10 +13,10 @@
 
 #### Team Member 2
 - Bharath Kumar K
-    - [Assignment 01]()
+    - [Assignment 01](.)
 #### Team Member 3
 - Bharathwaj M V
-    - [Assignment 01]()
+    - [Assignment 01](.)
 
 ---
 
