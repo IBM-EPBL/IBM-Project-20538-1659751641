@@ -6,7 +6,7 @@
 
 #### Team Lead :
 - Jaya Shravan S
-    - [Assignment 01]()
+    - [Assignment 01](./Assignments/Team%20Lead/Assignment-01/JayaShravan_Assignment_1.ipynb)
 #### Team Member 1
 - Athista Vignesh P S
     - [Assignment 01](./Assignments/Team%20Member%201/Assignment-01/athistavignesh.p.s_Assignment-01.pdf)
