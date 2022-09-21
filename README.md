@@ -9,7 +9,7 @@
     - [Assignment 01 :]()
 #### Team Member 1
 - Athista Vignesh P S
-    - [Assignment 01 :]()
+    - [Assignment 01 :](./Assignments/Team%20%Meamber%20%1/Assignment-01)
 #### Team Member 2
 - Bharath Kumar K
     - [Assignment 01 :]()
