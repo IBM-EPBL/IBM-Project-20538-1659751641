@@ -24,7 +24,8 @@
 - Ideation Phase
     - [Empathy Map](./Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map.pdf)
     - [Literature Survey](./Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey%20University%20predictor.pdf)
-    - [Ideation](./Project%20Design%20%26%20Planning/Ideation%20Phase/Ideation.pdf)
+    - [Ideation](./Project%20Design%20%26%20Planning/Ideation%20Phase/Ideate.pdf)
+    - [Problem Statement](./Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20Statement.pdf)
 - Project Design Phase 1
 - Project Design Phase 2
 - Project Planning
